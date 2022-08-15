@@ -9,4 +9,7 @@ description: "Adds things :)"
 commands:
   sad:
     description: "does sad things"
-
+permissions:
+  sad.kit.command:
+    default: op
+    description: "Lets you add / remove kits"
