@@ -1,0 +1,12 @@
+name: S.A.D.
+version: '${project.version}'
+main: me.theendercore.sad.Sad
+api-version: 1.19
+prefix: S.A.D.
+load: STARTUP
+authors: [ Ender, rudy ]
+description: "Adds things :)"
+commands:
+  sad:
+    description: "does sad things"
+
